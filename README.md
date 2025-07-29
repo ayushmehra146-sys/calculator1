@@ -1,24 +1,24 @@
 # 🧮 Simple Web Calculator
 
-This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
-
-## 🚀 Demo
-
-![Calculator Screenshot](https://via.placeholder.com/300x400.png?text=Calculator+Demo)
-
-Try it live by opening the `index.html` file in your browser.
+A basic calculator created using web technologies.
 
 ---
 
 ## 🛠 Features
 
-- Responsive, clean layout
-- Basic arithmetic operations: `+`, `−`, `×`, `÷`
-- Clear (`C`) and equals (`=`) functionality
-- Decimal point support
-- Error handling for invalid inputs
+- Perform basic arithmetic operations: `+`, `−`, `×`, `÷`
+- Supports decimal numbers
+- Clear (`C`) button to reset input
+- Equals (`=`) button to evaluate expressions
+- Minimal and responsive design
+- Error handling for invalid input
 
 ---
 
-## 📁 File Structure
+## 💻 Technologies Used
+
+- **HTML** – for structuring the calculator layout  
+- **CSS** – for styling and responsive design  
+- **JavaScript** – for calculator logic and interactivity
+
 
